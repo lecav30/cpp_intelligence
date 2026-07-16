@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Datasets
+codechef-competitive-programming/
+codeforces-competitive-programming-dataset/
+leetcode-problem-dataset/
+zips/
