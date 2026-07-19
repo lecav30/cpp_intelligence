@@ -14,3 +14,5 @@ codechef-competitive-programming/
 codeforces-competitive-programming-dataset/
 leetcode-problem-dataset/
 zips/
+# not used (web scrapping and api requests for better initial datasets)
+src/
